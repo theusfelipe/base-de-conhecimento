@@ -40,7 +40,7 @@ E pronto! A aplicação estará funcionando.
 
 ## 🖼️ Demonstração
 
-<img scr="./gif base de conhecimento.gif">
+<img scr="./base-de-conhecimento-print.png">
 
 !Demonstração da Aplicação
 
