@@ -38,13 +38,6 @@ Por ser um projeto estático, não há necessidade de um servidor complexo. Siga
 
 E pronto! A aplicação estará funcionando.
 
-## 🖼️ Demonstração
-
-<img scr="./base-de-conhecimento-print.png">
-
-!Demonstração da Aplicação
-
----
 
 Desenvolvido por **Matheus Felipe**.
 
